@@ -1,7 +1,7 @@
-### Hi there, I'm Richard - aka [Orangius][website] 👋 
+### Hello world 🌍, I'm [Richard Dufour][website] 👋 
 
-[![Website](https://img.shields.io/website?label=richarddufour.com&style=for-the-badge&url=https%3A%2F%2Fricharddufour.github.io)](https://richarddufour.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DufourRichard3)
+[![Website](https://img.shields.io/website?label=richarddufour.github.io&style=for-the-badge&url=https%3A%2F%2Fricharddufour.github.io)](https://richarddufour.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DufourRichard3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DufourRichard3)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 

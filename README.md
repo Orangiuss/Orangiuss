@@ -5,7 +5,6 @@
 
 ## I'm a Student !!
 
-- 🔭 I just launched my youtube channel: [Orangius][course]!
 - 🌱 I’m currently student, master's degree in theoretical computer science in 
      Université de Rouen Normandie
 - 👐 I’m looking to collaborate with other content creators and developers

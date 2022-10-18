@@ -42,13 +42,6 @@
 <img align="left" alt="rootme" width="26px" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" />
 
 <br />
-<br />
-<br />
-
-![Richard's Stats](https://github-readme-stats.vercel.app/api?username=RichardDufour&show_icons=true&count_private=true&theme=dark)
-
-[![GitHub followers](https://img.shields.io/github/followers/RichardDufour?label=Followers&style=social)](https://github.com/RichardDufour/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RichardDufour" alt="RichardDufour" /> </p>
 
 --- 
 

@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=richarddufour.github.io&style=for-the-badge&url=https%3A%2F%2Fricharddufour.github.io)](https://richarddufour.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DufourRichard3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DufourRichard3)
 
-## I'm a Student !!
+## I'm a Student !
 
 - 🌱 I’m currently student, master's degree in theoretical computer science in 
      Université de Rouen Normandie

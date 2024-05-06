@@ -1,6 +1,6 @@
-### Hello world 🌍, I'm Orangius 👋 
+### Hello world 🌍, I'm Orangiuss 👋 
 
-## I'm a Student !
+## I'm a Cybersecurity Student !
 
 - 🌱 I’m currently student, master's degree in cybersecurity in 
      Université de Rouen Normandie
@@ -30,11 +30,4 @@
 
 <br />
 
---- 
-
-[website]: https://richarddufour.github.io/
-[course]: https://www.youtube.com/channel/UCzWH5xVM0zdcFKvfdLapOJg
-[twitter]: https://twitter.com/DufourRichard3
-[youtube]: https://www.youtube.com/channel/UCzWH5xVM0zdcFKvfdLapOJg
-[instagram]: https://www.instagram.com/orangius/
-[linkedin]: https://www.linkedin.com/in/richard-dufour-0b42751b9/
+---

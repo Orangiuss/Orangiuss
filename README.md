@@ -8,24 +8,20 @@
 - 🥅 2024 Goals: Get started in news projects and always learn more !
 - 🎲 I love Lego, card games and poetry ! 🍃
 
-### Languages and Tools:
+### Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+<img align="left" alt="Burp Suite" width="26px" src="https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e_400x400.jpg" />
+<img align="left" alt="Nmap" width="26px" src="https://nmap.org/images/nmap-app-icon.png" />
+<img align="left" alt="Metasploit" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/007/landscape/metasploit-logo.png" />
+<img align="left" alt="Wireshark" width="26px" src="https://www.wireshark.org/media/wireshark-logo.png" />
+<img align="left" alt="John the Ripper" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/John_the_Ripper_logo.png" />
+<img align="left" alt="Aircrack-ng" width="26px" src="https://www.aircrack-ng.org/images/logo.png" />
+<img align="left" alt="Hydra" width="26px" src="https://www.hackingtools.in/wp-content/uploads/2017/02/hydra-300x238.png" />
+<img align="left" alt="SQLMap" width="26px" src="https://sqlmap.org/assets/sqlmap_logo.png" />
+<img align="left" alt="Gobuster" width="26px" src="https://avatars.githubusercontent.com/u/24671422?s=200&v=4" />
+<img align="left" alt="Dirb" width="26px" src="https://avatars.githubusercontent.com/u/34617992?s=200&v=4" />
+<img align="left" alt="Nikto" width="26px" src="https://cirt.net/nikto/nikto.png" />
+<img align="left" alt="ZAP" width="26px" src="https://www.zaproxy.org/images/zap64x64.png" />
 <img align="left" alt="rootme" width="26px" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" />
 
 <br />

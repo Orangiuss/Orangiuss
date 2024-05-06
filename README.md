@@ -9,3 +9,7 @@
 - 🎲 I love Lego, card games and poetry ! 🍃
 
 ---
+TryHackMe : https://tryhackme.com/p/Orangius
+OZINT : https://ozint.eu/ozinter/5682/
+
+Jeanne d'Hack CTF Founder : https://www.linkedin.com/company/jeanne-d-hack-ctf/

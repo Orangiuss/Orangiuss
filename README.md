@@ -9,7 +9,6 @@
 - 🎲 I love Lego, card games and poetry ! 🍃
 
 ### Tools:
-
 <img align="left" alt="Burp Suite" width="26px" src="https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e_400x400.jpg" />
 <img align="left" alt="Nmap" width="26px" src="https://nmap.org/images/nmap-app-icon.png" />
 <img align="left" alt="Metasploit" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/007/landscape/metasploit-logo.png" />

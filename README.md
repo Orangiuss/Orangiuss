@@ -9,6 +9,7 @@
 - 🎲 I love Lego, card games and poetry ! 🍃
 
 ---
+ <script src="https://tryhackme.com/badge/707589"></script>
 TryHackMe : https://tryhackme.com/p/Orangius </br>
 OZINT : https://ozint.eu/ozinter/5682/
 

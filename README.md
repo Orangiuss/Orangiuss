@@ -7,6 +7,8 @@
 - 👐 I’m looking to collaborate with other content creators and developers
 - 🥅 2024 Goals: Get started in news projects and always learn more !
 - 🎲 I love Lego, card games and poetry ! 🍃
+- 🔐 DevSecOps | Pentest | OSINT
+- [👾 H4ck3r W4y - Orangius's Blog]([url](https://orangius.gitbook.io/h4ck3r-w4y))
 
 ---
  <img src="https://tryhackme-badges.s3.amazonaws.com/Orangius.png" alt="TryHackMe">

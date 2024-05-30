@@ -19,9 +19,9 @@ Jeanne d'Hack CTF Founder : https://www.linkedin.com/company/jeanne-d-hack-ctf/
 
 <div>
   <a href="https://twitter.com/ExpLang_Cn">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExpLangcn&layout=compact" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orangiuss&layout=compact" />
   </a>
   <a href="https://twitter.com/ExpLang_Cn">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=ExpLangcn&show_icons=true&count_private=true" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=Orangiuss&show_icons=true&count_private=true" />
   </a>
 </div>

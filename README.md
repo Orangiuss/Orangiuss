@@ -11,7 +11,7 @@
 - [👾 H4ck3r W4y - Orangius's Blog](https://orangius.gitbook.io/h4ck3r-w4y)
 
 ---
- <img src="https://tryhackme-badges.s3.amazonaws.com/Orangius.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Orangius.png" alt="TryHackMe">
 TryHackMe : https://tryhackme.com/p/Orangius </br>
 OZINT : https://ozint.eu/ozinter/5682/
 

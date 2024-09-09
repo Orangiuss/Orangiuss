@@ -1,21 +1,21 @@
 ### Hello world 🌍, I'm Orangius 👋 
 
-## I'm a Cybersecurity Student !
+## Cybersecurity Professional
 
-- 🌱 I’m currently student, master's degree in cybersecurity in 
-     Université de Rouen Normandie
-- 👐 I’m looking to collaborate with other content creators and developers
-- 🥅 2024 Goals: Get started in news projects and always learn more !
-- 🎲 I love Lego, card games and poetry ! 🍃
-- 🔐 DevSecOps | Pentest | OSINT
+- 🔐 I'm a cybersecurity expert with a master's degree from **Université de Rouen Normandie**.
+- 👐 I’m looking to collaborate with other cybersecurity professionals and developers.
+- 🥅 2024 Goals: Get involved in new projects and continuously enhance my skills in cybersecurity!
+- 🛠 DevSecOps | Pentest | OSINT | Red Teaming
 - [👾 H4ck3r W4y - Orangius's Blog](https://orangius.gitbook.io/h4ck3r-w4y)
 
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/Orangius.png" alt="TryHackMe">
-TryHackMe : https://tryhackme.com/p/Orangius </br>
-OZINT : https://ozint.eu/ozinter/5682/
 
-Jeanne d'Hack CTF Founder : https://www.linkedin.com/company/jeanne-d-hack-ctf/
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Orangius.png)
+
+TryHackMe : [https://tryhackme.com/p/Orangius](https://tryhackme.com/p/Orangius)  
+OZINT : [https://ozint.eu/ozinter/5682/](https://ozint.eu/ozinter/5682/)
+
+Founder of Jeanne d'Hack CTF : [Jeanne d'Hack CTF](https://www.linkedin.com/company/jeanne-d-hack-ctf/)
 
 ---
 

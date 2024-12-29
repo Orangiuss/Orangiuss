@@ -2,7 +2,7 @@
 
 ## Cybersecurity Professional
 
-- 🔐 I'm a cybersecurity expert with a master's degree from **Université de Rouen Normandie**.
+- 🔐 I'm a Pentester with a master's degree from **Université de Rouen Normandie**.
 - 👐 I’m looking to collaborate with other cybersecurity professionals and developers.
 - 🥅 2024 Goals: Get involved in new projects and continuously enhance my skills in cybersecurity!
 - 🛠 Pentest | OSINT | Red Teaming | DevSecOps
